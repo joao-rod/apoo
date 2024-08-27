@@ -2,8 +2,8 @@
 
 ## Sumário Executivo
 
-SUM_EX_PR_sisCheckin_2024ago26 Versão 1.0
-
+SUM_EX_PR_sisCheckin_2024ago26  
+Versão 1.0  
 08/03/2021
 
 | **Versão** | **Autor(res)** | **Data**   | **Ação**                       |
